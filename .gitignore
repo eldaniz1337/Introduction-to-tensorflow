@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+.venv
+.py3
+train/
+test/
+
